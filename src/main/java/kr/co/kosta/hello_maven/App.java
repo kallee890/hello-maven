@@ -2,7 +2,7 @@ package kr.co.kosta.hello_maven;
 
 /**
  * Hello world!
- * GitHub TEST
+ * JIRA & Git Hub Integration
  * second mod
  * Third mod
  */
