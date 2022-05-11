@@ -2,7 +2,7 @@ package kr.co.kosta.hello_maven;
 
 /**
  * Hello world!
- * GitHub 에서 변경
+ * GitHub TEST
  * second mod
  * Third mod
  */
